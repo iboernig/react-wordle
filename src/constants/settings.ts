@@ -1,4 +1,4 @@
-import { deDE } from 'date-fns/locale'
+import { de } from 'date-fns/locale'
 
 export const MAX_CHALLENGES = 6
 export const ALERT_TIME_MS = 2000
