@@ -7,7 +7,7 @@ export const WORD_NOT_FOUND_MESSAGE = 'Wort nicht gefunden'
 export const HARD_MODE_ALERT_MESSAGE =
   'Den schwierigen Modus kann man nur zu Beginn einschalten!'
 export const HARD_MODE_DESCRIPTION =
-  'Jeder mTipp muss in den nächsten Versuchen angewendet werden!'
+  'Jeder Tipp muss in den nächsten Versuchen angewendet werden!'
 export const HIGH_CONTRAST_MODE_DESCRIPTION = 'Für bessere Farbdarstellung'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
   `Das Wort war ${solution}`
@@ -18,7 +18,7 @@ export const NOT_CONTAINED_MESSAGE = (letter: string) =>
 export const ENTER_TEXT = 'Eingabe'
 export const DELETE_TEXT = 'Löschen'
 export const STATISTICS_TITLE = 'Statistik'
-export const GUESS_DISTRIBUTION_TEXT = 'Vereilung der Versuche'
+export const GUESS_DISTRIBUTION_TEXT = 'Verteilung der Versuche'
 export const NEW_WORD_TEXT = 'Neues Wort in'
 export const SHARE_TEXT = 'Teile'
 export const SHARE_FAILURE_TEXT =
