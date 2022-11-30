@@ -15,4 +15,8 @@ export const WORDS = [
   'couch',
   'buero',
   'stadt',
+  'arten',
+  'model',
+  'eisen',
+  'hilfe',
 ]

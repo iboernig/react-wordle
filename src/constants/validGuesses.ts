@@ -2157,6 +2157,7 @@ export const VALID_GUESSES = [
   'mixer',
   'mixte',
   'mobil',
+  'model',
   'modem',
   'moden',
   'modre',
